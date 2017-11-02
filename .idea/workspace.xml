@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7d7389e-dd01-4640-9516-2b5991f16582" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/swagger.json" afterPath="$PROJECT_DIR$/swagger.json" />
-    </list>
+    <list default="true" id="c7d7389e-dd01-4640-9516-2b5991f16582" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="swagger.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/swagger.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="179" column="3" lean-forward="true" selection-start-line="179" selection-start-column="3" selection-end-line="179" selection-end-column="3" />
+            <state relative-caret-position="215">
+              <caret line="163" column="19" lean-forward="false" selection-start-line="163" selection-start-column="19" selection-end-line="163" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -36,8 +34,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="60" />
+    <option name="x" value="34" />
+    <option name="y" value="124" />
     <option name="width" value="1260" />
     <option name="height" value="672" />
   </component>
@@ -89,7 +87,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="60" width="1260" height="672" extended-state="0" />
+    <frame x="34" y="124" width="1260" height="672" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26600984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -151,8 +149,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/swagger.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="179" column="3" lean-forward="true" selection-start-line="179" selection-start-column="3" selection-end-line="179" selection-end-column="3" />
+        <state relative-caret-position="215">
+          <caret line="163" column="19" lean-forward="false" selection-start-line="163" selection-start-column="19" selection-end-line="163" selection-end-column="19" />
           <folding />
         </state>
       </provider>
